@@ -24,3 +24,6 @@ P.S I checked my program using 17 LP including homeworks
 **Decimal**
 
 ![image](https://user-images.githubusercontent.com/65315002/200413898-75f9f162-bf3c-409f-84ab-615099f4a501.png)
+
+
+*by Daniil Grammatikopulo*
