@@ -1,10 +1,12 @@
 # Simplex algorithm
 To use simplex
-  1.put .txt file in 'Problem' folder<\br>
-  2.launch the program 'Simplex method.exe'
-  3.write the name of the file in the console including .txt
-	e.g 'problem.txt'
-  4.solution will be saved in the folders Decimal & Fraction
+<ul>
+  <li>put .txt file in 'Problem' folder</li>
+  <li>launch the program 'Simplex method.exe'</li>
+  <li>write the name of the file in the console including .txt
+	e.g 'problem.txt'</li>
+  <li>solution will be saved in the folders Decimal & Fraction</li>
+</ul>
 P.S I checked my program using 17 LP including homeworks	
 
 
