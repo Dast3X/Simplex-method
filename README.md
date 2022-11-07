@@ -1,6 +1,6 @@
 # Simplex algorithm
 To use simplex
-  1.put .txt file in 'Problem' folder
+  1.put .txt file in 'Problem' folder<\br>
   2.launch the program 'Simplex method.exe'
   3.write the name of the file in the console including .txt
 	e.g 'problem.txt'
