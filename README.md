@@ -7,7 +7,8 @@ To use simplex
 	e.g 'problem.txt'</li>
   <li>solution will be saved in the folders Decimal & Fraction</li>
 </ul>
-P.S I checked my program using 17 LP including homeworks	
+P.S I checked my program using 17 LP including homeworks
+
 # Console
 
 ![image](https://user-images.githubusercontent.com/65315002/200413569-c86a7eef-3729-41b5-9d39-a784ba9a551a.png)
